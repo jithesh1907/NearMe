@@ -25,7 +25,8 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-
+```
+<!DOCTYPE.HTML>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -101,10 +102,11 @@ saveetha.html
 
 
 ## OUTPUT
-![alt text](<../map image.jpg>)
-![alt text](<../Screenshot 2025-10-10 195839.png>)
-![alt text](<../Screenshot 2025-10-10 195854.png>)
-![alt text](<../Screenshot 2025-10-10 195920.png>)
+![alt text](<map image.jpg>)
+![alt text](<Screenshot 2025-10-10 195839.png>)
+![alt text](<Screenshot 2025-10-10 195854.png>)
+![alt text](<Screenshot 2025-10-10 195920.png>)
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
