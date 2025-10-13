@@ -92,15 +92,10 @@ saveetha.html
 </html>
 
 ```
-
-
-
-
 ## OUTPUT
-![alt text](<NearMe/map image.jpg>)
-![alt text](Queens.image.jpg)
-![alt text](Saveetha.image.jpg)
-![alt text](NearMe/padur.image.jpg)
-
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
